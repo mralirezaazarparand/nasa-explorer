@@ -153,8 +153,6 @@ npm run start
 
 # 📸 Screenshots
 
-> Add screenshots here after the project is finalized.
-
 Example:
 
 ```
